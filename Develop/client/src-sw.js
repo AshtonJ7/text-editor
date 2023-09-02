@@ -39,6 +39,4 @@ registerRoute(
   }),
 );
 
-offlineFallback({
-  pageFallback: '/index.html',
-});
+offlineFallback();
