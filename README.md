@@ -1,8 +1,7 @@
-# text-editor
+# Text Editor
 
-## Your Task
+This is a text editor that runs in the browser. This app is a single-page application that meets the criteria for a progrressive web application.
 
-This is a text editor that runs in the browser. 
 ## User Story
 
 ```md
@@ -39,4 +38,21 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
-```
+
+## Features
+
+- Stores data to an IndexedDB database
+- Fullscreen mode
+- Downloadable
+
+## Tech Stack
+
+**Server:** Node, nodemon Express
+
+- webpack
+- idb
+- code-mirror-themes
+
+## Screenshots
+
+![image](https://github.com/AshtonJ7/text-editor/assets/62944042/7410e910-4eab-4943-90f4-78cacace9865)
