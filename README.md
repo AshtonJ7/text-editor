@@ -47,12 +47,13 @@ THEN I should have proper build scripts for a webpack application
 
 ## Tech Stack
 
-**Server:** Node, nodemon Express
+**Server:** Node, Nodemon, Express
 
 - webpack
 - idb
 - code-mirror-themes
 
+Service Worker API
 ## Link
 
 https://peaceful-stream-63675-161d7f225d28.herokuapp.com/
