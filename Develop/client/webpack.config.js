@@ -30,7 +30,7 @@ new WebpackPwaManifest({
         inject: true,
         name: 'J.A.T.E',
         short_name: 'J',
-        description: 'Never forget your contacts!',
+        description: 'text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
