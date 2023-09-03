@@ -49,11 +49,11 @@ THEN I should have proper build scripts for a webpack application
 
 **Server:** Node, Nodemon, Express
 
-- webpack
-- idb
-- code-mirror-themes
-
-Service Worker API
+- Webpack
+- Code-mirror-themes
+- Service Worker API
+- IndexedDB API
+- 
 ## Link
 
 https://peaceful-stream-63675-161d7f225d28.herokuapp.com/
