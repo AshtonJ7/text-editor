@@ -59,4 +59,5 @@ https://peaceful-stream-63675-161d7f225d28.herokuapp.com/
 
 ## Screenshots
 
-![2](https://github.com/AshtonJ7/text-editor/assets/62944042/9f2ece04-30c7-4c27-beb4-9264393e24cd)
+![2](https://github.com/AshtonJ7/text-editor/assets/62944042/31f250e7-9a77-464c-ab1d-e0139c5b18c8)
+
