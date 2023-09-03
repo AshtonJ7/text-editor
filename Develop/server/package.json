@@ -4,8 +4,7 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js",
-    "dev": "webpack-dev-server"
+        "server": "node server.js"
     },
     "keywords": [],
     "author": "",
