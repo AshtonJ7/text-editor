@@ -1,6 +1,6 @@
 # Text Editor
 
-This is a text editor that runs in the browser. This app is a single-page application that meets the criteria for a progrressive web application.
+This is a text editor that runs in the browser. This app is a single-page application that meets the criteria for a progressive web application.
 
 ## User Story
 
